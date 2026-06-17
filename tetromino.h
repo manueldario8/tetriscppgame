@@ -1,6 +1,6 @@
 #pragma once
 #include <vector>
-#include "board.h"
+#include <iostream>
 
 enum class TipoPieza {
     I,
